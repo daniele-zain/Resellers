@@ -1,0 +1,17 @@
+Route::resource('products','ProductController');
+============================================
+      An API to show all products:
+
+
+ public function index()
+    {
+     $products =Product::latest();
+      if($products->count()==0)
+        return "No Currnet Products";
+     else
+        return $products;
+   }
+=============================================
+
+
+

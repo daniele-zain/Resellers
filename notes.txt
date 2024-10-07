@@ -1,0 +1,8 @@
+1.edit the authentication to fit the contents of the BaseController
+
+2. I added a resource for every model in the Resource folder to
+convert data coming from database to json form for the front-end
+
+3.
+
+

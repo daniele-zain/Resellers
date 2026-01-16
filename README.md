@@ -11,7 +11,6 @@
 <img width="300" alt="reviews 2" src="https://github.com/user-attachments/assets/50f8b4c9-7aa0-4194-9d0a-08fd464bdf32" />
 <img width="300" alt="settings" src="https://github.com/user-attachments/assets/d305a0a5-e86a-486c-975e-0d38d465f5d4" />
 <img width="300" alt="reviews" src="https://github.com/user-attachments/assets/d9a4a55b-aee9-4756-a632-f0a6c72657bc" />
-<img width="300" alt="reviews on your profile" src="https://github.com/user-attachments/assets/ced5e261-091a-4632-8ceb-fc13b4a1ed34" />
 
 # ♻️ Resellers – E-commerce Platform for Used Products
 

@@ -8,6 +8,10 @@
 <img width="300" height="420" alt="comment" src="https://github.com/user-attachments/assets/4592f3b4-22e8-4696-b957-d792488232d4" />
 <img width="300" height="420" alt="profile" src="https://github.com/user-attachments/assets/23f85494-d33b-415e-9666-34c45de47062" />
 
+<img width="1080" height="1920" alt="reviews 2" src="https://github.com/user-attachments/assets/50f8b4c9-7aa0-4194-9d0a-08fd464bdf32" />
+<img width="1080" height="1920" alt="settings" src="https://github.com/user-attachments/assets/d305a0a5-e86a-486c-975e-0d38d465f5d4" />
+<img width="1080" height="1920" alt="reviews" src="https://github.com/user-attachments/assets/d9a4a55b-aee9-4756-a632-f0a6c72657bc" />
+<img width="1080" height="1920" alt="reviews on your profile" src="https://github.com/user-attachments/assets/ced5e261-091a-4632-8ceb-fc13b4a1ed34" />
 
 # ♻️ Resellers – E-commerce Platform for Used Products
 

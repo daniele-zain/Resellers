@@ -12,6 +12,10 @@
 <img width="300" alt="settings" src="https://github.com/user-attachments/assets/d305a0a5-e86a-486c-975e-0d38d465f5d4" />
 <img width="300" alt="reviews" src="https://github.com/user-attachments/assets/d9a4a55b-aee9-4756-a632-f0a6c72657bc" />
 
+<img width="600" alt="Admin Dashboard Orders" src="https://github.com/user-attachments/assets/3c239d75-2034-42bf-95cb-fc766d65f43a" />
+<img width="600" alt="Admin Dashboard Users" src="https://github.com/user-attachments/assets/5e0dda96-0e8e-4786-82bc-bd6c48f66543" />
+
+
 # ♻️ Resellers – E-commerce Platform for Used Products
 
 ## 📱 Project Overview
